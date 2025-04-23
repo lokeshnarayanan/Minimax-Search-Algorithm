@@ -268,7 +268,8 @@ if __name__ == "__main__":
 <hr>
 <h2>Sample Input and Output</h2>
 
-![Screenshot 2025-04-23 083217](https://github.com/user-attachments/assets/15d18c13-8586-4161-a86e-672f8fede53c)
+![436341794-15d18c13-8586-4161-a86e-672f8fede53c](https://github.com/user-attachments/assets/c9cc23a7-1248-43a4-baa4-740258a40067)
+
 ![Screenshot 2025-04-23 083234](https://github.com/user-attachments/assets/22eab297-0b82-4c60-ac58-642937993f52)
 
 <hr>
